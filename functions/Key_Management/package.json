@@ -1,0 +1,10 @@
+{
+	"name": "key_management",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "contact.karthickbala@gmail.com",
+	"dependencies": {
+		"@zcatalyst/auth": "latest",
+		"@zcatalyst/cache": "latest"
+	}
+}
